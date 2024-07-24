@@ -67,9 +67,10 @@ img {
 .search-box {
   display: flex;
   justify-content: center;
-  width: 500px;
-  border: 1px solid #313335;
+  width: 560px;
+  border: 1px solid #5F6368;
   border-radius: 50px;
+  padding: 3px;
 }
 
 .search-box:hover, .search-input:hover {
@@ -79,8 +80,8 @@ img {
 .search-input {
   background-color: #202124;
   border: none;
-  width: 420px;
-  height: 42px;
+  width: 380px;
+  height: 46px;
 }
 
 .search-input:focus {
